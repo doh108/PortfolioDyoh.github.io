@@ -1,0 +1,142 @@
+
+#title {
+  background-color: #ffffff;
+
+}
+
+.container-fluid {
+  padding: 1% 8%;
+
+
+}
+
+
+h1 {
+  font-family: 'Blinker', sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.5;
+
+}
+
+h2 {
+
+  font-family: 'Blinker';
+  font-size: 1.5;
+  font-weight: bold;
+  margin-bottom: 4rem;
+
+
+}
+
+h3 {
+
+  font-weight: bold;
+}
+
+p {
+color: rgb(35, 66, 203)
+
+}
+
+/* nav ar */
+
+.navbar {
+
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+
+  font-family: 'Amatic SC';
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.navbar-item {
+  padding: 0 18px;
+  
+  
+}
+
+.nav-link {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* download buttons */
+
+.download-button {
+
+  margin: 3% 7% 3% 0;
+}
+
+/*title image */
+
+
+.title-image {
+
+  width: 40%;
+  margin: -1%;
+
+
+  position: absolute;
+
+}
+
+
+#list {
+
+  padding: 50px 8%;
+  position: center;
+} 
+
+
+.list-header {
+
+  color:pink;
+} 
+
+
+.pricing-column {
+  padding: 3% 3%;
+  text-align: center;
+  
+}
+
+.bodybody {
+
+
+  font-family:'Edu TAs Beginner';
+  font-size:1.5rem;
+
+}
+
+#footer {
+
+  padding: 5% 10%;
+  text-align: center;
+
+}
+
+.h4 {
+
+
+  font-size:1.5rem;
+  color:rgb(0, 187, 255);
+  font-family: 'Amatic SC';
+}
+
+.headerheader {
+
+  color:rgb(0, 187, 255);
+  font-family: 'Amatic SC';
+
+}
+
+.h5 {
+
+  font-size:1.5rem;
+  color:rgb(12, 11, 12);
+  font-family: 'Amatic SC';
+}
